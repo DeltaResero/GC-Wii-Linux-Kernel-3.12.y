@@ -1,5 +1,5 @@
 ***
-**_Linux kernel for GameCube/Wii/vWii (Branch Version: 3.12.6)_**
+**_Linux kernel for GameCube/Wii/vWii (Branch Version: 3.12.8)_**
 ***
 
 Originally, this was going to uploaded to the GC-Wii-Linux-Kernels repository at: https://github.com/DeltaResero/GC-Wii-Linux-Kernels.git  
